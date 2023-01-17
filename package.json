@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/izeigerman/circleci-gh-conventional-releases.git"
+    "url": "git+https://github.com/TobikoData/circleci-gh-conventional-releases.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/izeigerman/circleci-gh-conventional-releases/issues"
+    "url": "https://github.com/TobikoData/circleci-gh-conventional-releases/issues"
   },
-  "homepage": "https://github.com/izeigerman/circleci-gh-conventional-releases#readme",
+  "homepage": "https://github.com/TobikoData/circleci-gh-conventional-releases#readme",
   "dependencies": {
     "@octokit/rest": "^17.11.0",
     "chalk": "^4.1.0",
